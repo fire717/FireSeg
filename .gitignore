@@ -1,0 +1,17 @@
+__pycache__
+*.jpg
+*.png
+*.zip
+*.rar
+*.log
+*.onnx
+*.bak
+*.pth
+*.json
+
+/fire/__pycache__
+/data
+/pretrained
+/output
+/results
+
